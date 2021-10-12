@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👨‍💻
+
+I'm a full-stack developer located in TX
 
 <!--
 **aschwenn/aschwenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
