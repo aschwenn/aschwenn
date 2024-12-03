@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👨‍💻</h1>
 
-<h3 align="center">I'm a software engineer with 5 years of industry experience across front-end, full-stack, and mobile projects!</h3>
+<h3 align="center">I'm a software engineer with 5 years of industry experience across full-stack web and mobile projects!</h3>
 
 - :airplane: I'm currently working on the front-end platform at Expedia Group
 - 💬 Feel free to [contact me on LinkedIn](https://linkedin.com/in/aschwenn)
